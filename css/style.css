@@ -1,0 +1,14 @@
+*{
+    box-sizing: 0;
+    }
+    
+    body{
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    font-size: 14px;
+    }
+    form{
+    width: 200px;
+    margin: auto;
+    padding-top: 250px;
+    }
